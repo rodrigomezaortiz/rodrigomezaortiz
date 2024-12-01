@@ -11,7 +11,16 @@
 
 ## 📫How to contact me: 
 
-[LinkedIn](https://github.com/rodrigomezaortiz)(https://www.linkedin.com/in/rodrigo-meza-ortiz/) 
+### Conéctate conmigo:
+<a href="https://www.linkedin.com/in/rodrigomezaortiz/" target="_blank">
+    <img src="https://oneclick.cr/hubfs/Logo-Linkedin.png" alt="LinkedIn" width="90" height="90" style="vertical-align: middle;">
+</a>
+&nbsp;
+<a href="mailto:rodrigo.meza.ortiz@gmail.com" target="_blank">
+    <img src="https://d3t4nwcgmfrp9x.cloudfront.net/upload/funciones-ocultas-mas-importantes-de-gmail-664x282.jpg" alt="Gmail" width="90" height="90" style="vertical-align: middle;">
+</a> 
+
+
 
 
 
